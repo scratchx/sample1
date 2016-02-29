@@ -31,4 +31,3 @@
     // Register the extension
     ScratchExtensions.register('Weather extension', descriptor, ext);
 })({});
-<input name="user[owm_api_key]" class="string optional readonly form-control" id="user_owm_api_key" type="text" readonly="readonly" value="2425e85d3742330bb441fceef75492c0">
